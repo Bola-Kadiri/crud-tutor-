@@ -1,0 +1,19 @@
+.nav-link{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    height: 50px;
+}
+
+.menu{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu a{
+    color: white;
+}

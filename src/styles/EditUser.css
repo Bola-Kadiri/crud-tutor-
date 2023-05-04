@@ -1,0 +1,41 @@
+
+.edit-users{
+    width: 100%;
+    min-height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    width: 100%;
+    max-width: 600px;
+    height: 500px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    display: block;
+    width: 60%;
+    padding: 10px 0px;
+    margin: 0px 0px 10px 0px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
+
+button{
+    display: block;
+    width: 60%;
+    padding: 10px 0px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background-color: green;
+    color: #fff;
+}
